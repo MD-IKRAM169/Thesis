@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
+*.swp
+
+# Do not commit archival social-media data, source ZIPs or credentials.
+Thesis.zip
+twitter-data/
+data/private/
+secrets/
+.env.local
