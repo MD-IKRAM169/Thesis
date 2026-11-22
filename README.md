@@ -1,4 +1,4 @@
-# Thesis | Social-Media Language Analysis and Feature Selection
+# Social-Media Language Analysis and Feature Selection
 
 **Historical research portfolio · Text mining · Linguistic features · R statistical analysis · Research ethics**
 
